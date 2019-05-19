@@ -1,0 +1,9 @@
+Sir/Ma'am,
+
+The Dallas Cowboys asked the University of North Texas to help predict real world attendance and concession sales at The Star in Frisco, Texas.
+I was selected by to be a part of a three person data science team by the UNT Advanced Data Analytics staff and chairman.
+
+I personally handled data cleaning and the creation of the Tableau dashboard. 
+
+R/
+Travis Hopkins
